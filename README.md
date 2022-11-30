@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **projects based on MERN or Flask Full-stack**
 
-- 💬 Ask me about **MERN and flask**
+- 💬 Ask me about **MERN, D3.js, flask and pySpark**
 
 - 📫 How to reach me **skujur871@gmail.com**
 
