@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashidev091" alt="shashidev091" /></a> </p>
 
-- 🔭 I’m currently working on **D3.js Visualisation tool with .Net Framework for HCL Technology.**
+- 🔭 I’m currently working on *Langchain, Azure OpenAi, CoForce Solutions for microsoft by HCL Technology.**
 
-- 🌱 I’m currently learning **D3.js, .Net, Flask and Next.js**
+- 🌱 I’m currently learning **LLAMA 2, Clustering Techniques (K-means, DBSCAN, ELBOW METHOD, Silhouette Score) and ML**
 
-- 👯 I’m looking to collaborate on **projects based on MERN or Flask Full-stack**
+- 👯 I’m looking to collaborate on **Projects based on Flask, Django, OpenAi, Langchain**
 
-- 💬 Ask me about **MERN, D3.js, flask and pySpark**
+- 💬 Ask me about **MERN, D3.js, Flask, Django, OpenAI, Prompt-Engineering, Langchain, LLAMA 2**
 
 - 📫 How to reach me **skujur871@gmail.com**
 
