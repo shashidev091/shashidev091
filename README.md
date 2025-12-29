@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on *Langchain, Azure OpenAi, CoForce Solutions for microsoft by HCL Technology.**
 
-- 🌱 I’m currently learning **LLAMA 2, Clustering Techniques (K-means, DBSCAN, ELBOW METHOD, Silhouette Score) and ML**
+- 🌱 I’m currently learning ** MCP Server, Image generation on local and programming languages like RUST and GO**
 
 - 👯 I’m looking to collaborate on **Projects based on Flask, Django, OpenAi, Langchain**
 
-- 💬 Ask me about **MERN, D3.js, Flask, Django, OpenAI, Prompt-Engineering, Langchain, LLAMA 2**
+- 💬 Ask me about **MERN, FastApi, D3.js, Flask, Django, OpenAI, Ollama, Prompt-Engineering, Langchain, LLAMA 2**
 
 - 📫 How to reach me **skujur871@gmail.com**
 
