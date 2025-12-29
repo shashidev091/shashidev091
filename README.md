@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on *Langchain, Azure OpenAi, CoForce Solutions for microsoft by HCL Technology.**
 
-- 🌱 I’m currently learning ** MCP Server, Image generation on local and programming languages like RUST and GO**
+- 🌱 I’m currently learning **MCP Server, Image generation on local and programming languages like RUST and GO**
 
 - 👯 I’m looking to collaborate on **Projects based on Flask, Django, OpenAi, Langchain**
 
